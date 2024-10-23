@@ -2,8 +2,6 @@
 
 Augmented Reality-based Indoor Navigation Application is an innovative application designed to assist users unfamiliar with complex buildings such as hospitals, universities, super malls, airports, and railway stations. It guides users to their desired destination, saving both time and energy. This system is cost effective, easy to use and independent of any external hardware.
 
-**If anyone wants to undertake this project, they can reach out to me for any kind of help or collaboration needed. **
-
 # AR-Based Indoor Navigation Application
 
 The project, named ARGO, has been developed for the first floor of my university. Its primary objective is to assist individuals in locating specific rooms within this floor, which boasts five entrances. To use this system, a user first scans a QR code for current location. After scanning, the user selects the desired room from the options presented. Subsequently, a 3D arrow is displayed, guiding the user precisely to their chosen destination within the building. ARGO simplifies the process of navigating the first floor, making it more efficient and user-friendly.
